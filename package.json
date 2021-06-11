@@ -1,0 +1,22 @@
+{
+  "name": "unml",
+  "version": "0.1.0",
+  "description": "unml JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unml/unml-js.git"
+  },
+  "keywords": [
+    "template"
+  ],
+  "author": "Ankur Seth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unml/unml-js/issues"
+  },
+  "homepage": "https://github.com/unml/unml-js#readme"
+}
