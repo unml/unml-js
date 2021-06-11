@@ -1,6 +1,6 @@
 {
   "name": "unml",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "unml JS",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,10 @@
   "keywords": [
     "template"
   ],
-  "author": "Ankur Seth",
+  "author": {
+    "name": "Ankur Seth",
+    "email": "iankurseth@gmail.com"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/unml/unml-js/issues"
